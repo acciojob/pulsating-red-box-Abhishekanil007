@@ -4,7 +4,7 @@
 	height:100px;
 	background-color:red;
 	transform:scale(1);
-	animation: pulse 0.9s infinite;
+	animation: pulse 1s ease-in-out infinite;
 }
 @keyframes pulse{
 	0%{
